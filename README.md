@@ -1,23 +1,16 @@
-# Nuxt Minimal Starter
+# Safelink With Nuxt 3 and Nuxt UI
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+## Features
 
 Make sure to install dependencies:
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+- Encrypt Link with UUID
+- Password Generator
+- Random Article
+- And Many Moore
 ```
 
 ## Development Server
