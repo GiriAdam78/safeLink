@@ -13,22 +13,14 @@ Make sure to install dependencies:
 - And Many Moore
 ```
 
-## Development Server
+## Made With :
 
-Start the development server on `http://localhost:3000`:
+This App Made With :
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+- Nuxt JS (Javascript Frontend)
+- Nuxt UI (Framework Frontend)
+- Chat GPT (AI For Searching A tutorials)
 ```
 
 ## Production
