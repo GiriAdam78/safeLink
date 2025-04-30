@@ -4,7 +4,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Features
 
-Make sure to install dependencies:
+This App Have A Features:
 
 ```bash
 - Encrypt Link with UUID
